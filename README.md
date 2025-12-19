@@ -4,6 +4,7 @@ I am from Nigeria, Imo state to be precise. I am a tech nerd that came across li
 I hope that this DevOps course will assist me in my tech journey as I grow to greater heights.
 
 About Me
-~/my-portfolio/about.md 
+~/my-portfolio/about.md
 
-#Projects-Git Basics 
+#Projects DevOps Lab 1
+Git-Basics
