@@ -1,4 +1,4 @@
-[Screenshots](~/my-portfolio/Screenshots)
+[Screenshots](Screenshots)
 
 Git helps teams in proper tracking of code updates, also it helps in quicking identifying buggy version of codes with the ability to revert changes and also check for merge conflicts
 
